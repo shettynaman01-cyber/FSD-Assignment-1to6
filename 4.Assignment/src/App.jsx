@@ -22,7 +22,7 @@ function App() {
       <ProfileCard
         name="Naman Shetty"
         role="FULL STACK DEVELOPER"
-        initials="SM"
+        initials="NS"
         description="BCA graduate and MCA student interested in building modern web applications and AI-powered solutions."
       />
     </main>

@@ -20,7 +20,7 @@ function App() {
       </div>
 
       <ProfileCard
-        name="Manish Kundan Zond"
+        name="Naman Shetty"
         role="FULL STACK DEVELOPER"
         initials="SM"
         description="BCA graduate and MCA student interested in building modern web applications and AI-powered solutions."
